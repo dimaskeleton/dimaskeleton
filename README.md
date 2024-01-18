@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimaskeleton
 - 👀 I’m interested in learning to program, studying at a local university majoring in Computer Science 
-- 🌱 I’m currently learning Object Oriented Programming in Java
+- 🌱 I’m currently learning Object Oriented Programming in Python
 - 💞️ I’m looking to collaborate on nothing so far, currently going throught the textbook myself 
 - 📫 How to reach me dimitri.short@outlook.com
 
